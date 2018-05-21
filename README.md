@@ -4,6 +4,8 @@ Coding challenge
 
 Your task is to set up the inital infastructure for a fictional company's website. The company is called Pied Piper and its main product is a compression algorithm. There's a lot to do, and not much time, progress as far as you can in the allotted time.
 
+Images and assets can be found at https://github.com/modipeluri/piedpiper
+
 ## 1. Get content for the website
   Content for the website already exists in Pied Pipers CMS - Contentful.
   - Log in to contentful at contentful.com with the username/password provided
@@ -22,3 +24,6 @@ Your task is to set up the inital infastructure for a fictional company's websit
   Show a cookie-use notice on the page.
   - If user accepts the terms, create a cookie indicating this.
   - When the user returns to Pied Pipers website, check for cookies existence, and show/hide the cookie-notice accordingly.
+
+## 5. Results
+  Send a PR to this repository.
