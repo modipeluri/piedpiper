@@ -6,14 +6,9 @@ Your task is to set up the inital infastructure for a fictional company's websit
 
 ## 1. Get content for the website
   Content for the website already exists in Pied Pipers CMS - Contentful.
-  Log in to contentful at contentful.com
-  - Username: pekka@pekkahiltunen.net
-  - Password: PiedPiperPool
-
-  Create a script to retrieve the content using the contentful javascript SDK
-  - SpaceID: ubwxqf5ah5ka
-  - Content delivery access token: d9c7259f304a670903e64550489dfbdf9443a7b31b9ee00e9f7c04d2b72cf59c
-  - More documentation can be found in contentful "Space Home" under "Use the API"
+  - Log in to contentful at contentful.com with the username/password provided
+  - Create a script to retrieve the content using the contentful javascript SDK
+  - Documentation can be found in contentful "Space Home" under "Use the API"
 
 ## 2. Set up new middleman project
   Set up a new middleman project, instructions at: https://middlemanapp.com/
