@@ -4,7 +4,7 @@ Coding challenge
 
 Your task is to set up the inital infastructure for a fictional company's website. The company is called Pied Piper and its main product is a compression algorithm.
 
-Images and assets can be found at https://github.com/modipeluri/piedpiper
+Mockups for the finished result and logo asset can be found at https://github.com/modipeluri/piedpiper
 
 ## 1. Get content for the website
   Content for the website already exists in Pied Pipers CMS - Contentful.
@@ -18,10 +18,13 @@ Images and assets can be found at https://github.com/modipeluri/piedpiper
 
 ## 3. Structure and presentation
   - Use HTML to format the content in a semantic, search engine friendly way.
-  - Style the content with CSS as you see fit, plus points for using BEM methodology.
+  - Style the content with CSS according to the design, plus points for using BEM methodology.
+  - The website should work with ie10+ and evergreen browsers, so feel free to use flexbox, grid and other modern (but supported) specs.
+  - You can ignore responsive design for this challenge.
 
 ## 4. Javascript
   Show a cookie-use notice on the page.
+  - "We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our     use of cookies. "
   - If user accepts the terms, create a cookie indicating this.
   - When the user returns to Pied Pipers website, check for cookies existence, and show/hide the cookie-notice accordingly.
 
