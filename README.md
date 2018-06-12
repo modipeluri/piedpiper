@@ -2,7 +2,7 @@
 
 Coding challenge
 
-Your task is to set up the inital infastructure for a fictional company's website. The company is called Pied Piper and its main product is a compression algorithm. There's a lot to do, and not much time, progress as far as you can in the allotted time.
+Your task is to set up the inital infastructure for a fictional company's website. The company is called Pied Piper and its main product is a compression algorithm.
 
 Images and assets can be found at https://github.com/modipeluri/piedpiper
 
@@ -26,4 +26,4 @@ Images and assets can be found at https://github.com/modipeluri/piedpiper
   - When the user returns to Pied Pipers website, check for cookies existence, and show/hide the cookie-notice accordingly.
 
 ## 5. Results
-  Send a PR to this repository.
+  Send results to Pekka in zip file by email.
