@@ -4,13 +4,13 @@ Coding challenge
 
 Your task is to set up the initial infastructure for a fictional company's website. The company is called Pied Piper and its main product is a compression algorithm.
 
-Mockups for the components can be found at https://github.com/modipeluri/piedpiper
+Mockups for the components can be found at https://github.com/modipeluri/piedpiper under the components folder.
 
 
 ## 1. Get content for the website
   Content for the website already exists in Pied Pipers CMS - Contentful.
   - Log in to contentful at contentful.com with the username/password provided
-  - Fetch content using the contentful javascript SDK
+  - Fetch content using your preferred method.
   - Documentation can be found in contentful "Space Home" under "Use the API"
 
 
@@ -29,6 +29,3 @@ Mockups for the components can be found at https://github.com/modipeluri/piedpip
     - The URL should be the title of the feature
     - Add the feature's content to the page
     - If the feature's title changes in Contentful, the URL should also change.
-
-## 4. Results
-  Send results to Pekka in zip file by email.
