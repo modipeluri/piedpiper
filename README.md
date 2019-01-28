@@ -6,6 +6,7 @@ Your task is to set up the initial infastructure for a fictional company's websi
 
 Mockups for the components can be found at https://github.com/modipeluri/piedpiper under the components folder.
 
+All submissions should be in english.
 
 ## 1. Get content for the website
   Content for the website already exists in Pied Pipers CMS - Contentful.
